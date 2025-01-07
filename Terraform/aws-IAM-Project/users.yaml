@@ -1,0 +1,7 @@
+users:
+  - username: Yash
+    role: [AdministratorAccess]
+  - username: Rohit
+    role: [AmazonEC2FullAccess]
+  - username: Pasha
+    role: [AmazonEC2ReadOnlyAccess,AmazonS3FullAccess]
